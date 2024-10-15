@@ -1,16 +1,7 @@
 # gemini_questions
 
-A new Flutter project.
+A new Flutter project. With Node js
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://github.com/user-attachments/assets/5caed07c-8ab0-411e-96dd-7165291e5a91)
+![2](https://github.com/user-attachments/assets/0bbe2503-51c8-436f-b769-17a104134065)
+![3](https://github.com/user-attachments/assets/02d81e9d-d04a-426e-ac1d-d36fbebd4d65)
